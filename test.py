@@ -85,3 +85,19 @@ unused_var = "this is never used"
 time.sleep(0)  # Technical Debt 20: Unnecessary sleep
 
 print("Request completed.")
+
+# Random unused code for testing review
+
+def unused_function():
+    x = 42
+    y = x * 2
+    return y
+
+unused_variable = "This is not used anywhere"
+
+# Another random block of code
+def another_unused_function():
+    for i in range(5):
+        print("Iteration", i)
+
+# End of random code
